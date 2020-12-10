@@ -1,4 +1,4 @@
-# Hola 👋, Soy Jonathan Guzmán Cruz
+# HI 👋, I am Jonathan Guzmán Cruz
 
 [English](README_EN.md) [Spanish](README_ES.md)
 
