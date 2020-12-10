@@ -2,17 +2,17 @@
 
 [English](README_EN.md) [Spanish](README_ES.md)
 
-System Engineering Student, UNA
+Estudiante de Ingeniería en sistemas, UNA
 
 ![ninjaoflight](https://komarev.com/ghpvc/?username=ninjaoflight&label=Profile%20views&color=0e75b6&style=flat)
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=ninjaoflight&show_icons=true&locale=en)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=ninjaoflight&show_icons=true&locale=es)
 
-![lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=ninjaoflight&show_icons=true&locale=en&layout=compact)
+![lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=ninjaoflight&show_icons=true&locale=es&layout=compact)
 
-* 👨‍💻 Most of my proyects can be found here or in my GitLab [https://gitlab.com/ninjaoflight5](https://gitlab.com/ninjaoflight5)
+* 👨‍💻 Varios de mis proyectos se encuentran aqui y en mi Gitlab [https://gitlab.com/ninjaoflight5](https://gitlab.com/ninjaoflight5)
 
-## Some of the tools/platforms I used
+## Algunas de las herramientas que he usado/trabajado
 
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>](https://developer.android.com)
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>](https://angular.io)
