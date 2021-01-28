@@ -1,6 +1,6 @@
 # Hola 👋, Soy Jonathan Guzmán Cruz
 
-[English](README_EN.md) [Spanish](README_ES.md)
+[English](README.md) [Spanish](README_ES.md)
 
 Estudiante de Ingeniería en sistemas, UNA
 

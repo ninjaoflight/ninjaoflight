@@ -1,6 +1,6 @@
 # HI 👋, I am Jonathan Guzmán Cruz
 
-[English](README_EN.md) [Spanish](README_ES.md)
+[English](README.md) [Spanish](README_ES.md)
 
 System Engineering Student, UNA
 
