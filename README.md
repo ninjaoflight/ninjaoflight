@@ -66,5 +66,5 @@ System Engineering Student, UNA
 
 There is multiple university projects on this organizations so you can check it here (mainly spanish as they are for the University)
 
- - ![UNA Ouroboros](https://github.com/UNA-OUROBOROS) multiple libraries made for projects.
- - ![UNA UNDERGROUND](https://github.com/orgs/UNA-UNDERGROUND) solutions of multiple assignations or projects.
+ - [UNA Ouroboros](https://github.com/UNA-OUROBOROS) multiple libraries made for projects.
+ - [UNA UNDERGROUND](https://github.com/orgs/UNA-UNDERGROUND) solutions of multiple assignations or projects.
