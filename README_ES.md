@@ -61,3 +61,10 @@ Estudiante de Ingeniería en sistemas, UNA
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>](https://www.qt.io)[<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/>](https://www.wxwidgets.org)
 
 [<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>](https://unrealengine.com)
+
+### Proyectos de la Universidad
+
+La mayoria de mis proyectos en la universidad se pueden entontrar en las siguientes organizaciones
+
+ - ![UNA Ouroboros](https://github.com/UNA-OUROBOROS) repositorios para ayudar con las asignaciones
+ - ![UNA UNDERGROUND](https://github.com/orgs/UNA-UNDERGROUND) repositorios de varios proyectos de multiples cursos en la Universidad
