@@ -2,7 +2,7 @@
 
 [English](README.md) [Spanish](README_ES.md)
 
-Estudiante de Ingeniería en sistemas, UNA
+Ingeniero en sistemas, UNA
 
 ![ninjaoflight](https://komarev.com/ghpvc/?username=ninjaoflight&label=Profile%20views&color=0e75b6&style=flat)
 
