@@ -2,8 +2,6 @@
 
 [English](README.md) [Spanish](README_ES.md)
 
-Ingeniero en sistemas, UNA
-
 ![ninjaoflight](https://komarev.com/ghpvc/?username=ninjaoflight&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=ninjaoflight&show_icons=true&locale=es)
